@@ -47,6 +47,7 @@ export const signup = async (req, res) => {
 		const { accessToken, refreshToken } = generateTokens(user._id);
 		await storeRefreshToken(user._id, refreshToken);
 
+
 		setCookies(res, accessToken, refreshToken);
 
 		res.status(201).json({
