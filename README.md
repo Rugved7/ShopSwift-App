@@ -47,6 +47,5 @@ An E-commerce platform with a powerful Admin Dashboard to manage products, users
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/your-repo/issues).
+
 
